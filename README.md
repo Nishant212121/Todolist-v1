@@ -1,0 +1,1 @@
+This is a Todolist project done by me Nishant. Using simple ejs and basic nodejs.
